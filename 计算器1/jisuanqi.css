@@ -1,0 +1,52 @@
+/*
+* @Author: 杨国璇
+* @Date:   2018-04-21 21:12:48
+* @Last Modified by:   杨国璇
+* @Last Modified time: 2018-04-22 10:07:31
+*/
+div.bigBox{
+	height: 604px;
+	width: 340px;
+	background: F0F0F0;
+	margin: 25px auto;
+	font-weight: bold;
+}
+div.title{
+	height: 53px;
+	width: 100%;
+	background: #00A5C4;
+	font-size: 20px;
+	line-height: 50px;
+	color: white;
+}
+div.screen{
+	height: 174px;
+	width: 100%;
+	background: #F0F0F0;
+}
+div.xiala{
+	height: 33px;
+	width: 100%;
+	background: #DFE3E4;
+	text-align: center;
+	line-height: 50px;
+	font-size: 30px；
+}
+div.caozuo{
+	width: 83px;
+	height: 67px;
+	border: 1px solid #DFE3E4;
+	float: left;
+	text-align: center;
+	line-height: 70px;
+	font-size: 30px;
+}
+div.caozuo1{
+	background: #FAFAFA;
+}
+div.caozuo2{
+	color: #4B91D1;
+}
+div.caozuo3{
+	color: #48AD4D;
+}
