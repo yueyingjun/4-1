@@ -1,0 +1,39 @@
+﻿/*
+* @Author: 杨国璇
+* @Date:   2018-04-21 19:32:08
+* @Last Modified by:   杨国璇
+* @Last Modified time: 2018-04-21 22:11:56
+*/
+div.bigBox{
+	height: 426px;
+	width: 243px;
+	border:2px solid black;
+	background:black;
+	margin: 100px auto;
+}
+div.screen{
+	height: 122px;
+	width: 100%;
+	color: white;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: right;
+	line-height: 120px;
+}
+div.btns{
+	height: 60px;
+	width: 60px;
+	border-bottom: 1px solid black;
+	border-right: 1px solid black;
+	background: #CCCCCC;
+	float: left;
+	text-align: center;
+	line-height: 60px;
+}
+div.btn1{
+	width: 121px;
+}
+div.btn2{
+	background: #FFA500;
+	border-right: 0px solid black;
+}
